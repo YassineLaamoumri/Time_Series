@@ -1,2 +1,2 @@
 # Times_Series
-Times Series - Sales Forecasting
+Time Series - Sales Forecasting
